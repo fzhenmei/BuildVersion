@@ -1,0 +1,11 @@
+[Oo]bj/
+[Bb]in/
+[Rr]elease/
+[Bb]uild/
+*.suo
+*.resharper
+*.resharper.user
+_ReSharper.*
+Log/
+*.csproj.user
+Thumbs.db
